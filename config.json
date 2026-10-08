@@ -1,5 +1,5 @@
 {
   "baseUrl": "http://178.105.77.231:8080",
-  "vasl_seller_url": "https://github.com/vasl-seller/apk/releases/download/android/vasl_seller.apk",
-  "vasl_vpn_url": "https://github.com/vasl-vpn/apk/releases/download/android/vasl.apk"
+  "vasl_seller_url": https://seller.vasl-vp-support.workers.dev",
+  "vasl_vpn_url": "https://app.vasl-vp-support.workers.dev"
 }
