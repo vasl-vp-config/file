@@ -1,5 +1,5 @@
 {
   "baseUrl": "http://178.105.77.231:8080",
-  "vasl_seller_url": https://seller.vasl-vp-support.workers.dev",
+  "vasl_seller_url": "https://seller.vasl-vp-support.workers.dev",
   "vasl_vpn_url": "https://app.vasl-vp-support.workers.dev"
 }
